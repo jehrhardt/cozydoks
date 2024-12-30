@@ -44,7 +44,7 @@ highlight_code = true
 # Put all your custom variables here
 author = "Aaran Xu"
 github = "https://github.com/aaranxu"
-ganalytics = ""                       # Google Analytics code
+plausible = "cozyauth.dev"
 
 # If running on netlify.app site, set to true
 is_netlify = true
