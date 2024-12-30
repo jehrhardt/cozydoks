@@ -105,7 +105,7 @@ info = 'Powered by <a href="https://www.netlify.com/">Netlify</a>, <a href="http
 
 [[extra.footer.nav]]
 name = "Privacy"
-url = "/privacy-policy/"
+url = "/privacy/"
 weight = 10
 
 [[extra.footer.nav]]
