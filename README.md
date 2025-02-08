@@ -24,8 +24,7 @@ zola init website
 Install this theme as a Git submodule:
 
 ```bash
-cd website
-git submodule add https://github.com/jehrhardt/cozydoks.git themes/cozydoks
+git submodule add https://github.com/jehrhardt/cozydoks.git website/themes/cozydoks
 ```
 
 ### Step 3: Configuration
@@ -34,6 +33,7 @@ Copy the `config.toml.example` from the theme directory to your project's
 root directory:
 
 ```bash
+cd website
 cp themes/cozydoks/config.toml.example config.toml
 ```
 
