@@ -1,3 +1,6 @@
+# Use Cozy Doks theme
+theme = "cozydoks"
+
 # The URL the site will be built for
 base_url = "https://cozydoks.dev"
 title = "Cozy Doks"
